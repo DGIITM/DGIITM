@@ -10,8 +10,8 @@
 ### 🧠 About Me
 - 🎓 Data Science student at **IIT Madras**
 - 📊 Strong foundation in **Python, Statistics, Probability & Machine Learning**
-- 🌱 Currently learning **Advanced ML, Networking & Systems**
-- 🧠 Interested in **decision-making through data**
+- 🌱 Currently learning **MLOps, GenAI, Networking & Systems**
+- 🧠 Interested in **converting knowledge into real-world application**
 - 🎯 Long-term focus on **high-impact problem solving & growth**
 
 ---
